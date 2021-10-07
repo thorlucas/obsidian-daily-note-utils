@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-daily-note-utils",
+	"name": "Daily Note Utils",
 	"version": "1.0.1",
 	"minAppVersion": "0.9.12",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md/about",
+	"description": "Provides a set of utility APIs for manipulating daily notes",
+	"author": "Thor Correia",
+	"authorUrl": "https://github.com/thorlucas/obsidian-daily-note-utils",
 	"isDesktopOnly": false
 }
